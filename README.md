@@ -1,23 +1,17 @@
-# Developer Portfolio
+# Thulasi Sundararaj Portfolio
 
-A clean portfolio site for backend engineering, applied AI, cloud, and Java roles. The project briefs under `projects/` define three portfolio builds designed to demonstrate complementary skills.
+A static portfolio for backend engineering, applied AI, cloud, and Java roles.
 
 ## Preview locally
 
-Open `index.html` in a browser. The site is static and has no build step.
+Open `index.html` in a browser. The site has no build step.
 
-## Personalize before publishing
+## Portfolio projects
 
-- Replace the DEV wordmark and generic title with your name.
-- Add your actual email, GitHub, LinkedIn, and resume links.
-- Update the hero summary to reflect your real experience and preferred roles.
-- Change each project card status as implementation begins and link to its live demo and source code when available.
-- Replace resume bullet templates with measured, truthful results.
+Project showcases will be added after each project is implemented and ready to share.
 
-## Project sequence
+## Personalize
 
-1. SignalDesk AI incident assistant
-2. CloudPulse AWS event platform
-3. LedgerLeaf Spring Boot finance API
-
-Each brief includes a problem statement, MVP, suggested stack, quality bar, and build sequence. The projects can be built independently; the AI and AWS projects can later share a deployment and operational story.
+- Keep the professional summary aligned with current experience.
+- Add project demos and source links after implementation.
+- Replace any project claims with measured, truthful results.
